@@ -5,8 +5,8 @@
 
 namespace template_repository {
 
-int64_t add(const int64_t a, const int64_t b);
-int64_t mul(const int64_t a, const int64_t b);
+int add(const int a, const int b);
+int mul(const int a, const int b);
 
 }  // namespace template_repository
 
